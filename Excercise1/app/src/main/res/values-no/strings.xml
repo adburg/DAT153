@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Excercise1</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="button_a_label">Knapp A</string>
+    <string name="button_b_label">Knapp B</string>
+    <string name="homepage_button_label">Aktivitet 2</string>
+    <string name="counter_label">Teller: 0</string>
+    <string name="homepage_text_label">Heisann</string>
+</resources>
