@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Excercise1</string>
-    <string name="title_activity_sub">SubActivity</string>
-    <string name="button_a_label">Knappi A</string>
-    <string name="button_b_label">Knappi B</string>
-    <string name="homepage_button_label">Akteivatat 2</string>
-    <string name="counter_label">Tellar: 0</string>
-    <string name="homepage_text_label">Heisonn i stuga</string>
-</resources>

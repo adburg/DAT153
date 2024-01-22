@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Excercise1 and 2_1</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="button_a_label">Button A</string>
+    <string name="button_b_label">Button B</string>
+    <string name="button_c_label">Button C</string>
+    <string name="homepage_button_label">Activity 2</string>
+    <string name="counter_label">Counter: 0</string>
+    <string name="homepage_text_label">Hello boy</string>
+</resources>
