@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oblig1</string>
+    <string name="homepage_text">Quiz App</string>
+    <string name="homepage_gallery_button">Gallery</string>
+    <string name="homepage_quiz_button">Quiz</string>
+    <string name="gallery_activty_title">Gallery</string>
+    <string name="quiz_activty_title">Quiz</string>
+
+</resources>
